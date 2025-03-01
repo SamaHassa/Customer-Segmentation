@@ -36,7 +36,7 @@ These features help in clustering customers into distinct groups based on their 
 🔹 Visualized clusters using scatter plots for better understanding.
 
 📸 Sample Output (Cluster Visualization)
-(You can add an image of the clustered scatter plot here!)
+![image](https://github.com/user-attachments/assets/881845d0-f185-4b5e-a33c-9018720ba8b0)
 
 📞 Contact
 📧 Your Name - Sama Hassan
